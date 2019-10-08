@@ -1,0 +1,23 @@
+#name{
+    width: 200px;
+    height: 50px;
+    border-style: solid;
+}
+
+#appt{
+	height: 50px;
+	border-style: solid;
+}
+
+#tijd {
+    margin-left: 20px;
+
+}
+
+#size: {
+margin: 	1em;
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
